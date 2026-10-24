@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Dylan Dwyer 👋
+Games Programming Graduate
+BSc (Hons) Computing (Games Programming) graduate from Edge Hill University with experience in C++, Python, Unreal Engine and Unity.
 
-<!--
-**Dwyer98/Dwyer98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills
+C++
+Python
+Object-Oriented Programming
+Unreal Engine 5
+Unity
+Visual Studio
+Visual Studio Code
+PyCharm
+Git & GitHub
+Featured Areas
+🎮 Game Development
 
-Here are some ideas to get you started:
+🖥 Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Programming
+
+🔍 Testing & Debugging
+
+Current Goals
+Expanding my software development portfolio
+Building Python projects
+Developing Unreal Engine projects
+Learning modern development practices
+Contact
+LinkedIn: www.linkedin.com/in/dylan-john-dwyer
+Email: dwyerdylan98@hotmail.co.uk
